@@ -1,2 +1,2 @@
 print("Hello Buddy")
-rint("Savitri Suralkar")
+print("Savitri Suralkar")
